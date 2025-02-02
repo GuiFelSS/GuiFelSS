@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=524&lines=%F0%9F%91%8B+Welcome+to+my+profile+%3BD" alt="Typing SVG">
+  </a>
+</div>
+
 <h1 align="center">Opa! me chamo Guilherme Felipe, tudo bem?</h1>
 
 ###
