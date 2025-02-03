@@ -1,14 +1,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=524&lines=%F0%9F%91%8B+Welcome+to+my+profile+%3BD" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=%E2%8A%B9+%F0%9F%91%8B+WELCOME+TO+MY+PROFILE+%E2%9C%8C+%F0%9F%98%8E+%F0%9F%91%8D+%E2%8A%B9" alt="Typing SVG">
   </a>
 </div>
 
-<h1 align="center">Opa! me chamo Guilherme Felipe, tudo bem?</h1>
-
 ###
 
-<p align="left">Olá, Tudo meu nome é Guilherme Felipe e tenho 21 anos de idade<br>atualmente estou cursando Analise e Desenvolvimento de Sistemas - ADS<br>na Faculdade de Informática e Administração Paulista - FIAP</p>
+<p align="center">Olá, Tudo meu nome é Guilherme Felipe e tenho 21 anos de idade<br>atualmente estou no segundo semestre cursando Analise e Desenvolvimento de Sistemas - ADS<br>na Faculdade de Informática e Administração Paulista - FIAP</p>
 
 ###
 
@@ -20,6 +18,8 @@
 </div>
 
 ###
+
+<img align="right" alt="" height="190px" src="./src/gif.gif">
 
 <div align="left">
   <a href="www.linkedin.com/in/guilherme-felipe-da-silva-souza" target="_blank">
