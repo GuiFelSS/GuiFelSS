@@ -61,6 +61,5 @@
     <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GuiFelSS/GuiFelSS/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-<!--teste-->
 
 <!-- https://profile-readme-generator.com/ -->
