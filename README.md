@@ -47,7 +47,7 @@
 <div align="center" style="padding: 20px;">
   <h3>* GitHub Stats *</h3>
 
- <img src="https://github-readme-stats.vercel.app/api?username=GuiFelSS&cache_seconds=480&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green&locale=pt-br&custom_title=Estat%C3%ADsticas%20de%20Guilherme%20Felipe%20no%20Github&rand=98765" height="180em" alt="stats graph" style="margin: 10px;">
+<img src="https://github-readme-stats.vercel.app/api?username=GuiFelSS&cache_seconds=240&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green&locale=pt-br&custom_title=Estat%C3%ADsticas%20de%20Guilherme%20Felipe%20no%20Github" height="180em" alt="stats graph" style="margin: 10px;">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuiFelSS&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="180em" alt="languages graph" style="margin: 10px;">
 </div>
@@ -61,5 +61,5 @@
     <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GuiFelSS/GuiFelSS/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-<p>aaaaaaaaaaaa</p>
+
 <!-- https://profile-readme-generator.com/ -->
