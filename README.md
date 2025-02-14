@@ -46,6 +46,8 @@
 
 <div align="center" style="padding: 20px;">
   <h3>* GitHub Stats *</h3>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=GuiFelSS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=pt-br&hide_border=false&order=1&custom_title=Estat%C3%ADsticas%20de%20Guilherme%20Felipe%20no%20Github">
   
   <img src="https://github-readme-stats.vercel.app/api?username=GuiFelSS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=pt-br&hide_border=false&order=1&custom_title=Estat%C3%ADsticas%20de%20Guilherme%20Felipe%20no%20Github" height="180em" alt="stats graph" style="margin: 10px;">
   
