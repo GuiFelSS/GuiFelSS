@@ -52,6 +52,9 @@
 
 #
 
+![Snake animation](https://raw.githubusercontent.com/GuiFelSS/GuiFelSS/output/github-contribution-grid-snake-dark.svg)
+
+
 <div align="center" style="padding: 20px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.github.com/GuiFelSS/GuiFelSS/output/github-contribution-grid-snake-dark.svg">
