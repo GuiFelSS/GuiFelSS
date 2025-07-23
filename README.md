@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
 
-<sub aling="right">Gif arte por <a href="https://www.artstation.com/kirokaze" target="_blank">Kirokaze</a></sub>
+<sub aling="right">Gif arte por <a href="https://www.behance.net/gallery/176249761/Late-Sleep" target="_blank">Kirokaze</a></sub>
 
 #
 
