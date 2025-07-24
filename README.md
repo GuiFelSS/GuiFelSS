@@ -7,8 +7,8 @@
 #
 
 <p align="center" style="margin: 20px 0; font-size: 16px;">
-  Olá, Tudo bem? Meu nome é Guilherme Felipe e tenho 21 anos de idade.<br>
-  Atualmente estou no segundo semestre cursando <b>Análise e Desenvolvimento de Sistemas - ADS</b><br>
+  Olá, Tudo bem? Meu nome é Guilherme Felipe e tenho 22 anos de idade.<br>
+  Atualmente estou cursando <b>Análise e Desenvolvimento de Sistemas - ADS</b><br>
   na <b>Faculdade de Informática e Administração Paulista - FIAP</b>.
 </p>
 
